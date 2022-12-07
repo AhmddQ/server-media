@@ -1,0 +1,22 @@
+{
+  "server_name": "meowvc",
+  "nice_name": "Meow VoiceChat",
+  "direct_ip": "mc.MeowVC.com",
+  "server_wildcards": [
+    "na.meowvc.com"
+  ],
+  "social": {
+    "web": "http://store.meowvc.com/",
+    "web_shop": "http://store.meowvc.com/",
+    "web_support": "http://store.meowvc.com/category/355420",
+    "instagram": "yt_ahmed",
+    "youtube": "https://www.youtube.com/c/ahmednashed6",
+    "discord": "https://discord.gg/ycw5x7bMgw"
+  },
+  "discord": {
+    "server_id": 969256529582776371,
+    "rename_to_minecraft_name": true
+  },
+  "user_stats": "https://mcw.meowvc.com/player/{userName}",
+  "yt_trailer": "mw7TFs0KF8o"
+}
